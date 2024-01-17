@@ -1,12 +1,12 @@
 {
-    "version": "3.0.3",
+    "version": "3.0.4",
     "description": "An ffmpeg gui with batch processing, video downloading, and more",
     "homepage": "https://github.com/eibol/ffmpeg_batch",
     "license": "CC-BY-SA-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/eibol/ffmpeg_batch/releases/download/3.0.3/FFBatch_AV_Converter_3.0.3_64bit.exe",
-            "hash": "679e831f72ca8f9a1c3c11cf38847437e77ae2cf6b08572880f455cef3992134"
+            "url": "https://github.com/eibol/ffmpeg_batch/releases/download/3.0.4/FFBatch_AV_Converter_3.0.4_64bit.exe",
+            "hash": "12de151bfb52061d919465bc6fd14232720bb8a5d0bba2f5b252a74bf1838062"
         }
     },
     "innosetup": true,
