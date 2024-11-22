@@ -1,13 +1,13 @@
 {
-    "version": "1.52",
+    "version": "2.0",
     "description": "A lightweight program that performs a bandwidth test for Twitch",
     "homepage": "https://r1ch.net/projects/twitchtest",
     "license": "GPL-2.0-only",
     "suggest": {
         "vcredist": "extras/vcredist2022"
     },
-    "url": "https://r1ch.net/assets/twitchtest/twitchtest-1.52.zip",
-    "hash": "374f1389790255899c27215242c7d73df0c7118dcac390a5227617593ec4b257",
+    "url": "https://r1ch.net/assets/twitchtest/twitchtest-2.0.zip",
+    "hash": "fbc868b8f414729314eafcee273af125176104d7b58d7009d8a2f5995fbee7e7",
     "shortcuts": [
         [
             "TwitchTest.exe",
