@@ -1,16 +1,16 @@
 {
-    "version": "1.1.25",
+    "version": "1.1.26",
     "description": "Two pane file manager inspired by Total Commander",
     "homepage": "https://doublecmd.sourceforge.io/",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://downloads.sourceforge.net/project/doublecmd/DC%20for%20Windows%2064%20bit/Double%20Commander%201.1.25/doublecmd-1.1.25.x86_64-win64.msi",
-            "hash": "sha1:24a92299a212e37b43ac3b6b8f828a21a2ff2dad"
+            "url": "https://downloads.sourceforge.net/project/doublecmd/DC%20for%20Windows%2064%20bit/Double%20Commander%201.1.26/doublecmd-1.1.26.x86_64-win64.msi",
+            "hash": "sha1:c7b883d241e15cefcadbca66a4ada83c0c66bb0d"
         },
         "32bit": {
-            "url": "https://downloads.sourceforge.net/project/doublecmd/DC%20for%20Windows%2032%20bit/Double%20Commander%201.1.25/doublecmd-1.1.25.i386-win32.msi",
-            "hash": "sha1:52a3877fbde4586a8eb8628a03e3495c79ef62d8"
+            "url": "https://downloads.sourceforge.net/project/doublecmd/DC%20for%20Windows%2032%20bit/Double%20Commander%201.1.26/doublecmd-1.1.26.i386-win32.msi",
+            "hash": "sha1:6e2c974b0f05b5f594886c699fe6d1dc1f1bb998"
         }
     },
     "extract_dir": "Double Commander",
