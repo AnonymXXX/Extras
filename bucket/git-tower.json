@@ -1,13 +1,13 @@
 {
-    "version": "10.1.540",
+    "version": "11.0.545",
     "homepage": "https://www.git-tower.com",
     "description": "An easy to use GUI client for Git with powerful features.",
     "license": {
         "identifier": "Shareware",
         "url": "https://www.git-tower.com/legal/eula/windows"
     },
-    "url": "https://www.git-tower.com/apps/tower3-win/540-789bf0e8/Tower-10.1.540.exe#/dl.7z",
-    "hash": "c039a84d615a0e359f88f5656c28c946c3c65bf03bd9211626e605efd4aaa703",
+    "url": "https://www.git-tower.com/apps/tower3-win/545-dff9ec3a/Tower-11.0.545.exe#/dl.7z",
+    "hash": "453fa1c8b30c18d366d041946803dcdbc30e1949f38dc4a5e6f17f7ae2c69f4a",
     "pre_install": [
         "Remove-Item \"$dir\\*\" -Exclude 'Tower-*-full.nupkg'",
         "Expand-7zipArchive \"$dir\\Tower-*-full.nupkg\" -ExtractDir 'lib\\net45' -Removal"
