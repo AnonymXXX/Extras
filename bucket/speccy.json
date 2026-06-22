@@ -1,10 +1,10 @@
 {
-    "version": "1.33.75",
+    "version": "1.34.84",
     "description": "Fast, lightweight, advanced system information tool for your PC.",
     "homepage": "https://www.ccleaner.com/speccy",
     "license": "Freeware",
-    "url": "https://download.ccleaner.com/spsetup133.exe#/dl.7z",
-    "hash": "e0edaee0d47ae9ddbb9ac78c9bcede8e25e082b87eb14654242b97c48ba847f5",
+    "url": "https://download.ccleaner.com/spsetup134.exe#/dl.7z",
+    "hash": "a7f525daeb124f90d2a07d2975f40b9ee568d56244902d3418728ce6dfd737f0",
     "architecture": {
         "64bit": {
             "bin": [
